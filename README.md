@@ -13,13 +13,21 @@ XCode using SwiftUI
 
 ## Images of the views created
 
+### User List View
+* Views in separated files (row and list)
+* Data loaded from json
+* Navigation in each row to Profile View
+
+![User List view](https://raw.githubusercontent.com/RubensSoft/LearningSwiftUI/master/User%20List%20Screenshot.png)
+
+
 ### Profile View
 * Circle shaped image
 * User Data using Vertical and Horizontal Stack Views
 * Map view
 * Different views in separated files
 
-![Profile view](https://raw.githubusercontent.com/RubensSoft/LearningSwiftUI/master/Profile%20View%20Screenshot.png)
+![Profile view](https://raw.githubusercontent.com/RubensSoft/LearningSwiftUI/master/Profile%20Screenshot.png)
 
 
 ## Autores ✒️
