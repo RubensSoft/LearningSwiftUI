@@ -1,0 +1,79 @@
+[
+    {
+        "name": "José Rubén Castro Soriano",
+        "id": 1001,
+        "category": "iOS Developer",
+        "team": "Punkipa",
+        "coordinates": {
+            "longitude": -3.614719,
+            "latitude": 37.190815
+        },
+        "imageName": "image"
+    },
+    {
+        "name": "Jichael Mackson",
+        "id": 1002,
+        "category": "iOS Developer",
+        "team": "Punkipa",
+        "coordinates": {
+            "longitude": 1.8883335,
+            "latitude": 46.603354
+        },
+        "imageName": "swift"
+    },
+    {
+        "name": "Wruce Billis",
+        "id": 1003,
+        "category": "Android Developer",
+        "team": "Milnoh",
+        "coordinates": {
+            "longitude": -7.3362482,
+            "latitude": 31.172821
+        },
+        "imageName": "android"
+    },
+    {
+        "name": "Jebron Lames",
+        "id": 1004,
+        "category": "iOS Developer",
+        "team": "Milnoh",
+        "coordinates": {
+            "longitude": -80.1936589,
+            "latitude": 25.774266
+        },
+        "imageName": "anonymous"
+    },
+    {
+        "name": "Gill Bates",
+        "id": 1005,
+        "category": "Developer",
+        "team": "Architecture",
+        "coordinates": {
+            "longitude": 97.7453061,
+            "latitude": 64.6863136
+        },
+        "imageName": "anonymous"
+    },
+    {
+        "name": "Cagnus Marlsen",
+        "id": 1006,
+        "category": "DevOps",
+        "team": "Dev Platform",
+        "coordinates": {
+            "longitude": 11.5280364,
+            "latitude": 64.573154
+        },
+        "imageName": "anonymous"
+    },
+    {
+        "name": "Meo Lessi",
+        "id": 1007,
+        "category": "HR",
+        "team": "HR Office Managment",
+        "coordinates": {
+            "longitude": -7.889626,
+            "latitude": 40.033263
+        },
+        "imageName": "anonymous"
+    }
+]
