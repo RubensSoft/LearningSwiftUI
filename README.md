@@ -1,5 +1,4 @@
 # LearningSwiftUI
-Repository to learn and practice designing views with SwiftUI
 
 ## Starting 🚀
 Learn how to design views with SwiftUI and create complex views 
