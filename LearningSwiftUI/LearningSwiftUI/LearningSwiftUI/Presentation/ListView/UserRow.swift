@@ -8,6 +8,7 @@ struct UserRow: View {
             user.image
             .resizable()
             .frame(width: 70, height: 70)
+            
             Text(user.name)
                 .padding(.leading)
         }

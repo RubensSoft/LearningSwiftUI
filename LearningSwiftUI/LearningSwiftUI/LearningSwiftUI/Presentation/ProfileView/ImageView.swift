@@ -15,6 +15,6 @@ struct ImageView: View {
 
 struct ImageView_Previews: PreviewProvider {
     static var previews: some View {
-        ImageView(image: Image("anonymous"))
+        ImageView(image: Image("image"))
     }
 }

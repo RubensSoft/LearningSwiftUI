@@ -125,11 +125,11 @@
 		0EECE3DC246EA48400DF8360 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				0EECE412246EC7DD00DF8360 /* swift.jpg */,
 				0EECE407246EB52800DF8360 /* android.jpg */,
 				0EECE409246EB52800DF8360 /* anonymous.jpg */,
 				0EECE408246EB52800DF8360 /* jenkins.jpeg */,
 				0EECE404246EB42B00DF8360 /* image.jpg */,
+				0EECE412246EC7DD00DF8360 /* swift.jpg */,
 				0EECE3E5246EA8E800DF8360 /* userData.json */,
 				0E9D985A246E841D00C9474E /* Assets.xcassets */,
 			);

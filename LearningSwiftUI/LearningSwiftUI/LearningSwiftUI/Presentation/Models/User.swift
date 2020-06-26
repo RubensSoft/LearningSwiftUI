@@ -4,8 +4,8 @@ import CoreLocation
 struct User: Hashable, Codable, Identifiable {
     var id: Int
     var name: String
-    fileprivate var imageName: String
-    fileprivate var coordinates: Coordinates
+    var imageName: String
+    var coordinates: Coordinates
     var category: String
     var team: String
     
