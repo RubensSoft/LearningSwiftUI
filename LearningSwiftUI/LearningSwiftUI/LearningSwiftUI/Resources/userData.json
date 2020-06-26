@@ -4,6 +4,7 @@
         "id": 1001,
         "category": "iOS Developer",
         "team": "Punkipa",
+        "isFavorite": true,
         "coordinates": {
             "longitude": -3.614719,
             "latitude": 37.190815
@@ -15,6 +16,7 @@
         "id": 1002,
         "category": "iOS Developer",
         "team": "Punkipa",
+        "isFavorite": true,
         "coordinates": {
             "longitude": 1.8883335,
             "latitude": 46.603354
@@ -26,6 +28,7 @@
         "id": 1003,
         "category": "Android Developer",
         "team": "Milnoh",
+        "isFavorite": false,
         "coordinates": {
             "longitude": -7.3362482,
             "latitude": 31.172821
@@ -37,6 +40,7 @@
         "id": 1004,
         "category": "iOS Developer",
         "team": "Milnoh",
+        "isFavorite": false,
         "coordinates": {
             "longitude": -80.1936589,
             "latitude": 25.774266
@@ -48,6 +52,7 @@
         "id": 1005,
         "category": "Developer",
         "team": "Architecture",
+        "isFavorite": false,
         "coordinates": {
             "longitude": 97.7453061,
             "latitude": 64.6863136
@@ -59,6 +64,7 @@
         "id": 1006,
         "category": "DevOps",
         "team": "Dev Platform",
+        "isFavorite": false,
         "coordinates": {
             "longitude": 11.5280364,
             "latitude": 64.573154
@@ -70,6 +76,7 @@
         "id": 1007,
         "category": "HR",
         "team": "HR Office Managment",
+        "isFavorite": false,
         "coordinates": {
             "longitude": -7.889626,
             "latitude": 40.033263

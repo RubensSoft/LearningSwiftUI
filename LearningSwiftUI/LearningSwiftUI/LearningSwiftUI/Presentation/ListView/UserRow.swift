@@ -11,6 +11,12 @@ struct UserRow: View {
             
             Text(user.name)
                 .padding(.leading)
+            
+            if user.isFavorite {
+                Image(systemName: "star.fill")
+                    .imageScale(.medium)
+                    .foregroundColor(.yellow)
+            }
         }
     }
 }
