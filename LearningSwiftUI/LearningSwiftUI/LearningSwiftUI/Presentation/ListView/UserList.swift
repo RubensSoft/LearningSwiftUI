@@ -1,17 +1,17 @@
 import SwiftUI
 
 struct UserList: View {
-    @EnvironmentObject var userDataFav: UserData
+    @EnvironmentObject var userData: UserData
 
     var body: some View {
         NavigationView {
             List {
-                Toggle(isOn: $userDataFav.showFavoritesOnly) {
+                Toggle(isOn: $userData.showFavoritesOnly) {
                     Text("Favorites only")
                 }
                 
-                ForEach(userDataFav.user) { user in
-                    if !self.userDataFav.showFavoritesOnly || user.isFavorite {
+                ForEach(userData.user) { user in
+                    if !self.userData.showFavoritesOnly || user.isFavorite {
                         NavigationLink(destination: ProfileView(user: user)) {
                             UserRow(user: user)
                         }

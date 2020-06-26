@@ -3,5 +3,5 @@ import Combine
 
 final class UserData: ObservableObject {
     @Published var showFavoritesOnly = false
-    @Published var user = userData
+    @Published var user = userDataJson
 }
