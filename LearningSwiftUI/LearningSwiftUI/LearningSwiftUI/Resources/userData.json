@@ -2,8 +2,9 @@
     {
         "name": "José Rubén Castro Soriano",
         "id": 1001,
-        "category": "iOS Developer",
+        "category": "Developer",
         "team": "Punkipa",
+        "isFeatured": true,
         "isFavorite": true,
         "coordinates": {
             "longitude": -3.614719,
@@ -14,8 +15,9 @@
     {
         "name": "Jichael Mackson",
         "id": 1002,
-        "category": "iOS Developer",
+        "category": "Developer",
         "team": "Punkipa",
+        "isFeatured": true,
         "isFavorite": true,
         "coordinates": {
             "longitude": 1.8883335,
@@ -26,8 +28,9 @@
     {
         "name": "Wruce Billis",
         "id": 1003,
-        "category": "Android Developer",
+        "category": "Developer",
         "team": "Milnoh",
+        "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "longitude": -7.3362482,
@@ -38,8 +41,9 @@
     {
         "name": "Jebron Lames",
         "id": 1004,
-        "category": "iOS Developer",
+        "category": "DevOps",
         "team": "Milnoh",
+        "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "longitude": -80.1936589,
@@ -50,8 +54,9 @@
     {
         "name": "Gill Bates",
         "id": 1005,
-        "category": "Developer",
+        "category": "DevOps",
         "team": "Architecture",
+        "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "longitude": 97.7453061,
@@ -64,6 +69,7 @@
         "id": 1006,
         "category": "DevOps",
         "team": "Dev Platform",
+        "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "longitude": 11.5280364,
@@ -76,6 +82,7 @@
         "id": 1007,
         "category": "HR",
         "team": "HR Office Managment",
+        "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "longitude": -7.889626,
