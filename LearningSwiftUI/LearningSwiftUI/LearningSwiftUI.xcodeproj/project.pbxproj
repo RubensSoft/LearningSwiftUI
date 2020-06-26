@@ -17,6 +17,7 @@
 		0E9D986B246E90E600C9474E /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9D986A246E90E600C9474E /* MapView.swift */; };
 		0E9D986D246E93B900C9474E /* UserDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9D986C246E93B900C9474E /* UserDataView.swift */; };
 		0E9D9870246E951B00C9474E /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9D986F246E951B00C9474E /* ProfileView.swift */; };
+		0ECF32B324A5F9F100053632 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECF32B224A5F9F100053632 /* UserData.swift */; };
 		0EECE3E0246EA78200DF8360 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EECE3DF246EA78200DF8360 /* User.swift */; };
 		0EECE3E2246EA84200DF8360 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EECE3E1246EA84200DF8360 /* Data.swift */; };
 		0EECE3E6246EA8E800DF8360 /* userData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0EECE3E5246EA8E800DF8360 /* userData.json */; };
@@ -42,6 +43,7 @@
 		0E9D986A246E90E600C9474E /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		0E9D986C246E93B900C9474E /* UserDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDataView.swift; sourceTree = "<group>"; };
 		0E9D986F246E951B00C9474E /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		0ECF32B224A5F9F100053632 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		0EECE3DF246EA78200DF8360 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		0EECE3E1246EA84200DF8360 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		0EECE3E5246EA8E800DF8360 /* userData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = userData.json; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				0EECE3DB246EA3CB00DF8360 /* Presentation */,
+				0ECF32B124A5F9CF00053632 /* Data */,
 				0EECE3DC246EA48400DF8360 /* Resources */,
 				0EECE3DD246EA49700DF8360 /* SupportingFiles */,
 				0E9D9862246E841D00C9474E /* Info.plist */,
@@ -109,6 +112,14 @@
 				0E9D986F246E951B00C9474E /* ProfileView.swift */,
 			);
 			path = ProfileView;
+			sourceTree = "<group>";
+		};
+		0ECF32B124A5F9CF00053632 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				0ECF32B224A5F9F100053632 /* UserData.swift */,
+			);
+			path = Data;
 			sourceTree = "<group>";
 		};
 		0EECE3DB246EA3CB00DF8360 /* Presentation */ = {
@@ -248,6 +259,7 @@
 				0EECE403246EAEF400DF8360 /* UserList.swift in Sources */,
 				0EECE3E8246EA95A00DF8360 /* UserRow.swift in Sources */,
 				0E9D9857246E841C00C9474E /* SceneDelegate.swift in Sources */,
+				0ECF32B324A5F9F100053632 /* UserData.swift in Sources */,
 				0EECE3E0246EA78200DF8360 /* User.swift in Sources */,
 				0E9D9859246E841C00C9474E /* ContentView.swift in Sources */,
 				0E9D9870246E951B00C9474E /* ProfileView.swift in Sources */,

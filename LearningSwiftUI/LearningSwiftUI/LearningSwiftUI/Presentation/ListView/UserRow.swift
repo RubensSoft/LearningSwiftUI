@@ -23,6 +23,6 @@ struct UserRow: View {
 
 struct UserRow_Previews: PreviewProvider {
     static var previews: some View {
-        UserRow(user: userData[0])
+        UserRow(user: userDataJson[0])
     }
 }

@@ -4,7 +4,7 @@ import UIKit
 import SwiftUI
 import CoreLocation
 
-let userData: [User] = load("userData.json")
+let userDataJson: [User] = load("userData.json")
 
 func load<T: Decodable>(_ filename: String) -> T {
     let data: Data

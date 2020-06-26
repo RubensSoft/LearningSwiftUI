@@ -28,6 +28,6 @@ struct MapView: UIViewRepresentable {
 
 struct MapView_Previews: PreviewProvider {
     static var previews: some View {
-        MapView(locationCordinate: userData[0].locationCoordinate)
+        MapView(locationCordinate: userDataJson[0].locationCoordinate)
     }
 }
