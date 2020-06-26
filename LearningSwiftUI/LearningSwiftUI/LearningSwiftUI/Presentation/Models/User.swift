@@ -10,6 +10,7 @@ struct User: Hashable, Codable, Identifiable {
     var team: String
     
     var isFavorite: Bool
+    var isFeatured: Bool
     
     var locationCoordinate: CLLocationCoordinate2D {
         CLLocationCoordinate2D(
